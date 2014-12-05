@@ -1,0 +1,29 @@
+{
+  "name": "intermediately-sized-hadron-collider",
+  "version": "0.0.0",
+  "description": "a tool for testing metaprogramming witchcraft",
+  "main": "universe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "collider": "./bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btford/intermediately-sized-hadron-collider.git"
+  },
+  "keywords": [
+    "witchcraft",
+    "metaprogramming",
+    "subversive",
+    "testing",
+    "tool"
+  ],
+  "author": "Brian Ford <btford@umich.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btford/intermediately-sized-hadron-collider/issues"
+  },
+  "homepage": "https://github.com/btford/intermediately-sized-hadron-collider"
+}
